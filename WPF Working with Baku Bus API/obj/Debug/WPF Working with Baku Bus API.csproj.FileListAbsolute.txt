@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\WPF Working with Baku Bus API.exe.config
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\WPF Working with Baku Bus API.exe
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\WPF Working with Baku Bus API.pdb
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\Views\StartWindow.g.cs
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API_MarkupCompile.cache
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API_MarkupCompile.lref
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\Views\StartWindow.baml
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.g.resources
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF_Working_with_Baku_Bus_API.Properties.Resources.resources
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.csproj.CopyComplete
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.exe
+C:\Users\Admin\source\repos\WPF Working with Baku Bus API\WPF Working with Baku Bus API\obj\Debug\WPF Working with Baku Bus API.pdb
